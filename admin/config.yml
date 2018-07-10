@@ -24,4 +24,5 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_menus"
     create: true
     fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Items", name: "items", widget: "list"}
