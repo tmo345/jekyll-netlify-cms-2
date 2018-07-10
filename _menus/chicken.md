@@ -6,4 +6,4 @@ menu_items:
   - name: Paneer
     price: '11.22'
 ---
-asdfasdf
+Chicken Dishes
