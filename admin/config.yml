@@ -26,8 +26,8 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Menu Items",
-        name: "menu_items",
+      - label: "Menu Items"
+        name: "menu_items"
         widget: "list"
         fields:
           - label: Name
